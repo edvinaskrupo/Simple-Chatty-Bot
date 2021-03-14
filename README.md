@@ -1,2 +1,2 @@
 # ticTacToe
-A simple game of tic tac toe played by entering the coordinates.
+A simple game of Tic-tac-toe played by entering the coordinates.
